@@ -1,4 +1,4 @@
-module github.com/prettymuchbryce/kademlia
+module github.com/wonabru/kademlia
 
 go 1.17
 
